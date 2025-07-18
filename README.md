@@ -1,16 +1,17 @@
-# Projects
+# Front-end Projects from Roadmap.sh
+------------------------------------
 
-# Single-Page CV – Lamija Ramić
+# Project List: 
+
+## HTML projects
+### Single-Page CV – Lamija Ramić
 
 This is a simple HTML project – a single-page CV created as part of a web development exercise.
 
-## 🔗 Project URL
+#### 🔗 Project URL
 
-[[https://github.com/LaRamicc/Projects](https://github.com/LaRamicc/Projects)](https://roadmap.sh/projects/single-page-cv)
+- [GitHub Repository](https://github.com/LaRamicc/Projects)
+- [Single-Page CV Guide on Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 
-## 💡 Technologies
-
-- HTML5
-- Semantic HTML
-- Meta tags (SEO + Open Graph)
-- Favicon
+### Changelog Component
+###
