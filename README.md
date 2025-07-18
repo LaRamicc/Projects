@@ -6,7 +6,7 @@ This is a simple HTML project – a single-page CV created as part of a web deve
 
 ## 🔗 Project URL
 
-[https://github.com/LaRamicc/Projects](https://github.com/LaRamicc/Projects)
+[[https://github.com/LaRamicc/Projects](https://github.com/LaRamicc/Projects)](https://roadmap.sh/projects/single-page-cv)
 
 ## 💡 Technologies
 
